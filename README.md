@@ -1,2 +1,0 @@
-# -sockets
-guia de  sockets
